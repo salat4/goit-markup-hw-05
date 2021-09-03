@@ -379,6 +379,7 @@ img {
   text-align: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: var(--white-color);
 }
 .work-comp {
   font-family: Roboto;
@@ -389,6 +390,7 @@ img {
   text-align: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: var(--white-color);
 }
 .work-tablet {
   font-family: Roboto;
@@ -399,6 +401,7 @@ img {
   text-align: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: var(--white-color);
 }
 
 .teamer {

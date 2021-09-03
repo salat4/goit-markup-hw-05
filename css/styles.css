@@ -684,7 +684,7 @@ img {
   position: relative;
 }
 .port-label:hover .invis {
-  transform: translate(0%, -101%);
+  transform: translatey(-101%);
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .port-label:hover,
@@ -701,7 +701,7 @@ img {
   align-items: center;
   justify-content: center;
   position: absolute;
-  transform: translate(-101%, -101%);
+  transform: translatey(0%);
   background-color: rgba(33, 150, 243, 0.9);
 }
 .text-label {

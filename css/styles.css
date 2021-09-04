@@ -147,6 +147,10 @@ img {
   display: flex;
   align-items: center;
 }
+.link-mail:hover,
+.link-mail:focus {
+  color: var(--accent-color);
+}
 .tel-icon {
   margin-right: 10px;
 }
